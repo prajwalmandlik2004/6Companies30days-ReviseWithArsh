@@ -1,4 +1,4 @@
-// Find missing and repeating : Array , Data Structure : 
+// Find missing and repeating : Array , Data Structure  
 
 class Solution{
 public:
@@ -30,5 +30,5 @@ public:
         }
         return {repeatingNumber,missingNumber};
     }
-}
+};
 
